@@ -15,7 +15,7 @@ sdk_version: 1.43.2
 ## **📌 Introduction**  
 This project is a **AI Powered Crop & Fertilizer Recommendation System**, developed as part of my **BrainOvision summer Internship**. The system provides **personalized crop and fertilizer recommendations** based on soil composition, weather conditions, and crop requirements.  
 
-🔗 **Deployed Application:** [Crop & Fertilizer Recommendation System](https://huggingface.co/spaces/SamarthPujari/Crop-and-Fertilizer-Recommendation-System)  
+🔗 **Deployed Application:** [Crop & Fertilizer Recommendation System](https://ai-powered-crop-fertilizer-recommendation-system-pax2rg7gdfhcz.streamlit.app/)  
 
 ## **🎯 Project Goals**  
 ✅ Integrate **AI and Green Skills** into agriculture.  
