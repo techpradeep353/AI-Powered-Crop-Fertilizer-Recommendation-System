@@ -114,4 +114,4 @@ This project is **open-source** and free to use. Feel free to contribute!
 
 ## **📧 Contact**  
 📌 **Author:** Pradeep kumar pradhan
-📌 **GitHub:** [Samarth4023](https://github.com/Samarth4023)  
+📌 **GitHub:** [pradeep353](https://github.com/techpradeep353)  
